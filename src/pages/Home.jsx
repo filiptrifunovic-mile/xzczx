@@ -54,7 +54,7 @@ function Home() {
             <div className="background js-banner-background">
               <div className="bg-image">
                 <img
-                  src="/public/pozadina.webp"
+                  src="/public/1.jpg"
                   data-webp-img-fallback="https://www.brisans.com.au/storage/app/resources/resize/img_ca0827ad253e492f8e9912367b5e29fd_2000_0_0_0_auto.jpg"
                   style={imageStyle}
                   sizes="(max-width: 2000px) 100vw, 2000px"
